@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="44dp"
+        android:height="66dp"
+        android:drawable="@drawable/img_escuelas_seguras_logo"
+        android:gravity="center" />
+</layer-list>

@@ -1,0 +1,8 @@
+{
+  "name": "Escuelas Seguras",
+  "description": "Aplicación móvil para reportar incidentes escolares, acceder a rutas seguras, activar alertas SOS y recibir apoyo escolar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
